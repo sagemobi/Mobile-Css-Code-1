@@ -1,0 +1,21 @@
+@media (max-width: 600px) {
+    body {
+        background-color: azure;
+        margin: 10px;
+    }
+
+    h1 {
+        font-size: 1.5em; 
+        color: navy;
+        text-align: center; 
+    }
+
+    p {
+        font-size: 0.9em; 
+        line-height: 1.4; 
+    }
+
+    ul {
+        padding-left: 15px; 
+    }
+}

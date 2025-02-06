@@ -1,0 +1,25 @@
+body {
+    background-color: lightblue;
+    font-family: Arial, sans-serif;
+    margin: 20px;
+	}
+    
+    h1 {
+        color: navy;
+        font-size: 2em;
+    }
+
+    p {
+        color: darkslategray;
+        font-size: 1em;
+    }
+
+    ul {
+        list-style-type: square;
+    }
+
+    img {
+        max-width: 100%;
+        height: auto;
+    }
+    
